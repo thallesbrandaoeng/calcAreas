@@ -21,3 +21,5 @@ def perimetro_triang(lado1, lado2, lado3):
     perimetro = lado1+lado2+lado3    
 
     return perimetro
+
+print('Hello')
