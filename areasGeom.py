@@ -11,3 +11,8 @@ def area_circ(diam):
     area = (pi * diam**2 ) / 4
 
     return area
+
+def area_triang(base, altura):
+    area = base * altura / 2    
+
+    return area
