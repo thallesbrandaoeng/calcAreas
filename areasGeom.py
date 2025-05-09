@@ -16,3 +16,8 @@ def area_triang(base, altura):
     area = base * altura / 2    
 
     return area
+
+def perimetro_triang(lado1, lado2, lado3):
+    perimetro = lado1+lado2+lado3    
+
+    return perimetro
